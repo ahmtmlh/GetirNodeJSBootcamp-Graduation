@@ -9,7 +9,7 @@ const errorHandler = require('./middlewares/errorHandler')
 const { RecordRouter } = require('./routes')
 
 loader()
-cofigure()
+configure()
 
 const app = express()
 
